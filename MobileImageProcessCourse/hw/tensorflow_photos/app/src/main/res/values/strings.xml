@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright 2014 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <string name="app_name">FacialProcessing</string>
+    <string name="action_RecognizeAge">Age</string>
+    <string name="action_RecognizeGender">Gender</string>
+    <string name="action_RecognizeEthnicity">Ethnicity</string>
+    <string name="action_RecognizeEmotion">Emotion</string>
+    <string name="action_CompareFaces">Compare faces</string>
+    <string-array name="category_list_age">
+        <item>young</item>
+        <item>adult</item>
+        <item>old</item>
+    </string-array>
+    <string-array name="category_list_gender">
+        <item>female</item>
+        <item>male</item>
+    </string-array>
+    <string-array name="category_list_ethnicity">
+        <item></item>
+        <item>white</item>
+        <item>black</item>
+        <item>asian</item>
+        <item>indian</item>
+        <item>latino/middle Eastern</item>
+    </string-array>
+    <string-array name="category_list_emotion">
+        <item></item>
+        <item>Anger</item>
+        <item>Disgust</item>
+        <item>Fear</item>
+        <item>Happiness</item>
+        <item>Neutral</item>
+        <item>Sadness</item>
+        <item>Surprise</item>
+
+    </string-array>
+    <string-array name="category_list_faces">
+        <item>0</item>
+    </string-array>
+</resources>

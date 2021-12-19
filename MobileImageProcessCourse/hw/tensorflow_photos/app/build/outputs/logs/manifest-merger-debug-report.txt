@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/948466fc0fd68d26767131aebcf94562/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/onovitskaya/.gradle/caches/transforms-3/c0e02203eb9c6bbbc268b3c44453fc5b/transformed/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [org.pytorch:pytorch_android_torchvision:1.9.0] /Users/onovitskaya/.gradle/caches/transforms-3/9b902e56381b9938ed9d7ea0d3cc1063/transformed/jetified-pytorch_android_torchvision-1.9.0/AndroidManifest.xml:2:1-10:12
+MERGED from [org.pytorch:pytorch_android_lite:1.9.0] /Users/onovitskaya/.gradle/caches/transforms-3/5f69dd1ac388b77877877d4bd5b7217e/transformed/jetified-pytorch_android_lite-1.9.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.takisoft.fix:preference-v7:26.1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/78718023ad689709fef38704e5b1a6c1/transformed/jetified-preference-v7-26.1.0.0/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/66bbe361e4602acb38aa6a6316ba39d7/transformed/legacy-preference-v14-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/00511fe33093c2bfec7ae34570bbada7/transformed/preference-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/onovitskaya/.gradle/caches/transforms-3/89ef9f58ed117c6930948f2ea196b92e/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/b73ca64ce4b921307b482edb8aa9bc4f/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/c2691bf6bf8da8f8b4f98638eb8ef8f4/transformed/jetified-core-ktx-1.8.0-alpha02/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/4c0a42fec2948a9fb166a4877a1f04e0/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/9b9ae85d96eed0431da99a65c4a1357c/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/a30be6d3f3435594ce1a7cda49abdcec/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/dc86751c8f901ca99323006ad5a9c78e/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/onovitskaya/.gradle/caches/transforms-3/7a0e174ffc7c5c9dee0733437c7a642c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/152d49ca0ffd8aef062927607156df04/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/875e07c7d9c2c5e5ee4f174382f5fb4a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/d792801f77055a6a255eea82b9b01247/transformed/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/1570ed4dbb2dac98e9eda228791f219b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/3c7486c136060a01c9b83dc82182d0f7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/fc85e0862785e4db3c988253fd6670c7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/ee7502ad15f02b8148759f56eaf53519/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/7d2126bdc0e5aeb07de7272ec6fdbb9d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/1fa7b9a9752695809aa79ef0b4c46ece/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/9edf7658cb4dda16a721191bcc1c8e97/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/275efded74f3d037c878d3501b2a0deb/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/00b8a9be878480b18f17724a87ab73b9/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/0ffaec5c680584d03b48205753996d10/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/038493934aa56762233a04c8e0f37d7d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/2ecda84d039891bbccfef23cc87ae34c/transformed/core-1.8.0-alpha02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onovitskaya/.gradle/caches/transforms-3/617502ce39c250fe34e8d466da095cd3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/1c9eea707e66dc0c6a0596ce51a4fd57/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/4590003ad923b4a0e4bfa16b2520ca0c/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/70fc9ef1ddd2bb5abafa17b531315bea/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/0e7d66eb960692fe6d536889f328a109/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/onovitskaya/.gradle/caches/transforms-3/0e4e88f45cc5f81516d8649727bd4321/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/999015059a41f8238692b95961a2056a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/7f70d51a985c5ae8cdd818193b279db5/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/0f4f2e559dc26b88dc6e2424ee13bd54/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/327132ef1f79b710019ff45e274495dc/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/2319d372797f3efd648bfc4e047644db/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /Users/onovitskaya/.gradle/caches/transforms-3/52e343b64ebeb96941cf57a942a2bf6a/transformed/jetified-tensorflow-android-1.13.1/AndroidManifest.xml:2:1-8:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/68ee4e1045b3c7efc943ebccc571f51e/transformed/jetified-tensorflow-lite-gpu-2.7.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.3.1] /Users/onovitskaya/.gradle/caches/transforms-3/4029f535b6cfb110cad9b55ae0869059/transformed/jetified-tensorflow-lite-support-0.3.1/AndroidManifest.xml:2:1-5:12
+MERGED from [:opencv] /Users/onovitskaya/made/improc2021/OpenCV-android-sdk/sdk/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] /Users/onovitskaya/.gradle/caches/transforms-3/0c6a526d1e51783d0ca72f335912830a/transformed/jetified-tensorflow-lite-support-api-0.3.1/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/3bbcdd64093f19797a83e61ee083325f/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/9ef05f5eaf97c3e6f83f59203858ad0b/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/onovitskaya/.gradle/caches/transforms-3/2af018210dca3f70a097f16cc1ab6683/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/d6ccf0fe300df96f2ae39f040e0f96e3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:10:5-34:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/948466fc0fd68d26767131aebcf94562/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/948466fc0fd68d26767131aebcf94562/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/onovitskaya/.gradle/caches/transforms-3/c0e02203eb9c6bbbc268b3c44453fc5b/transformed/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/onovitskaya/.gradle/caches/transforms-3/c0e02203eb9c6bbbc268b3c44453fc5b/transformed/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/2ecda84d039891bbccfef23cc87ae34c/transformed/core-1.8.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/2ecda84d039891bbccfef23cc87ae34c/transformed/core-1.8.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onovitskaya/.gradle/caches/transforms-3/617502ce39c250fe34e8d466da095cd3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onovitskaya/.gradle/caches/transforms-3/617502ce39c250fe34e8d466da095cd3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /Users/onovitskaya/.gradle/caches/transforms-3/52e343b64ebeb96941cf57a942a2bf6a/transformed/jetified-tensorflow-android-1.13.1/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /Users/onovitskaya/.gradle/caches/transforms-3/52e343b64ebeb96941cf57a942a2bf6a/transformed/jetified-tensorflow-android-1.13.1/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/68ee4e1045b3c7efc943ebccc571f51e/transformed/jetified-tensorflow-lite-gpu-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/68ee4e1045b3c7efc943ebccc571f51e/transformed/jetified-tensorflow-lite-gpu-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/3bbcdd64093f19797a83e61ee083325f/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/3bbcdd64093f19797a83e61ee083325f/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/9ef05f5eaf97c3e6f83f59203858ad0b/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/9ef05f5eaf97c3e6f83f59203858ad0b/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/onovitskaya/.gradle/caches/transforms-3/2af018210dca3f70a097f16cc1ab6683/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/onovitskaya/.gradle/caches/transforms-3/2af018210dca3f70a097f16cc1ab6683/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:14:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/2ecda84d039891bbccfef23cc87ae34c/transformed/core-1.8.0-alpha02/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:15:9-45
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:16:9-18:71
+	android:value
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:18:13-68
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:17:13-58
+activity#com.pdmi_samsung.android.visual_preferences.MapsActivity
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:20:9-102
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:20:19-90
+activity#com.asav.android.MainActivity
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:27:27-74
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:31:9-33:35
+	android:value
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:33:13-32
+	android:name
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:32:13-70
+uses-sdk
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/948466fc0fd68d26767131aebcf94562/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/948466fc0fd68d26767131aebcf94562/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/onovitskaya/.gradle/caches/transforms-3/c0e02203eb9c6bbbc268b3c44453fc5b/transformed/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/onovitskaya/.gradle/caches/transforms-3/c0e02203eb9c6bbbc268b3c44453fc5b/transformed/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [org.pytorch:pytorch_android_torchvision:1.9.0] /Users/onovitskaya/.gradle/caches/transforms-3/9b902e56381b9938ed9d7ea0d3cc1063/transformed/jetified-pytorch_android_torchvision-1.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_torchvision:1.9.0] /Users/onovitskaya/.gradle/caches/transforms-3/9b902e56381b9938ed9d7ea0d3cc1063/transformed/jetified-pytorch_android_torchvision-1.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_lite:1.9.0] /Users/onovitskaya/.gradle/caches/transforms-3/5f69dd1ac388b77877877d4bd5b7217e/transformed/jetified-pytorch_android_lite-1.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_lite:1.9.0] /Users/onovitskaya/.gradle/caches/transforms-3/5f69dd1ac388b77877877d4bd5b7217e/transformed/jetified-pytorch_android_lite-1.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.takisoft.fix:preference-v7:26.1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/78718023ad689709fef38704e5b1a6c1/transformed/jetified-preference-v7-26.1.0.0/AndroidManifest.xml:7:5-11:335
+MERGED from [com.takisoft.fix:preference-v7:26.1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/78718023ad689709fef38704e5b1a6c1/transformed/jetified-preference-v7-26.1.0.0/AndroidManifest.xml:7:5-11:335
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/66bbe361e4602acb38aa6a6316ba39d7/transformed/legacy-preference-v14-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/66bbe361e4602acb38aa6a6316ba39d7/transformed/legacy-preference-v14-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/00511fe33093c2bfec7ae34570bbada7/transformed/preference-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/00511fe33093c2bfec7ae34570bbada7/transformed/preference-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/onovitskaya/.gradle/caches/transforms-3/89ef9f58ed117c6930948f2ea196b92e/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/onovitskaya/.gradle/caches/transforms-3/89ef9f58ed117c6930948f2ea196b92e/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/b73ca64ce4b921307b482edb8aa9bc4f/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/b73ca64ce4b921307b482edb8aa9bc4f/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/c2691bf6bf8da8f8b4f98638eb8ef8f4/transformed/jetified-core-ktx-1.8.0-alpha02/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/c2691bf6bf8da8f8b4f98638eb8ef8f4/transformed/jetified-core-ktx-1.8.0-alpha02/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/4c0a42fec2948a9fb166a4877a1f04e0/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/4c0a42fec2948a9fb166a4877a1f04e0/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/9b9ae85d96eed0431da99a65c4a1357c/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/9b9ae85d96eed0431da99a65c4a1357c/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/a30be6d3f3435594ce1a7cda49abdcec/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/a30be6d3f3435594ce1a7cda49abdcec/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/dc86751c8f901ca99323006ad5a9c78e/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/dc86751c8f901ca99323006ad5a9c78e/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/onovitskaya/.gradle/caches/transforms-3/7a0e174ffc7c5c9dee0733437c7a642c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/onovitskaya/.gradle/caches/transforms-3/7a0e174ffc7c5c9dee0733437c7a642c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/152d49ca0ffd8aef062927607156df04/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/152d49ca0ffd8aef062927607156df04/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/875e07c7d9c2c5e5ee4f174382f5fb4a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/875e07c7d9c2c5e5ee4f174382f5fb4a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/d792801f77055a6a255eea82b9b01247/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/d792801f77055a6a255eea82b9b01247/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/1570ed4dbb2dac98e9eda228791f219b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/1570ed4dbb2dac98e9eda228791f219b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/3c7486c136060a01c9b83dc82182d0f7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/3c7486c136060a01c9b83dc82182d0f7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/fc85e0862785e4db3c988253fd6670c7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/fc85e0862785e4db3c988253fd6670c7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/ee7502ad15f02b8148759f56eaf53519/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/ee7502ad15f02b8148759f56eaf53519/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/7d2126bdc0e5aeb07de7272ec6fdbb9d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/7d2126bdc0e5aeb07de7272ec6fdbb9d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/1fa7b9a9752695809aa79ef0b4c46ece/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/1fa7b9a9752695809aa79ef0b4c46ece/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/9edf7658cb4dda16a721191bcc1c8e97/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/9edf7658cb4dda16a721191bcc1c8e97/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/275efded74f3d037c878d3501b2a0deb/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/275efded74f3d037c878d3501b2a0deb/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/00b8a9be878480b18f17724a87ab73b9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/00b8a9be878480b18f17724a87ab73b9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/0ffaec5c680584d03b48205753996d10/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/0ffaec5c680584d03b48205753996d10/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/038493934aa56762233a04c8e0f37d7d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/038493934aa56762233a04c8e0f37d7d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/2ecda84d039891bbccfef23cc87ae34c/transformed/core-1.8.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/2ecda84d039891bbccfef23cc87ae34c/transformed/core-1.8.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onovitskaya/.gradle/caches/transforms-3/617502ce39c250fe34e8d466da095cd3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onovitskaya/.gradle/caches/transforms-3/617502ce39c250fe34e8d466da095cd3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/1c9eea707e66dc0c6a0596ce51a4fd57/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/1c9eea707e66dc0c6a0596ce51a4fd57/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/4590003ad923b4a0e4bfa16b2520ca0c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/4590003ad923b4a0e4bfa16b2520ca0c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/70fc9ef1ddd2bb5abafa17b531315bea/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/70fc9ef1ddd2bb5abafa17b531315bea/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/0e7d66eb960692fe6d536889f328a109/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/0e7d66eb960692fe6d536889f328a109/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/onovitskaya/.gradle/caches/transforms-3/0e4e88f45cc5f81516d8649727bd4321/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/onovitskaya/.gradle/caches/transforms-3/0e4e88f45cc5f81516d8649727bd4321/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/999015059a41f8238692b95961a2056a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/999015059a41f8238692b95961a2056a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/7f70d51a985c5ae8cdd818193b279db5/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/7f70d51a985c5ae8cdd818193b279db5/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/0f4f2e559dc26b88dc6e2424ee13bd54/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/0f4f2e559dc26b88dc6e2424ee13bd54/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/327132ef1f79b710019ff45e274495dc/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/327132ef1f79b710019ff45e274495dc/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/2319d372797f3efd648bfc4e047644db/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/2319d372797f3efd648bfc4e047644db/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/68ee4e1045b3c7efc943ebccc571f51e/transformed/jetified-tensorflow-lite-gpu-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/68ee4e1045b3c7efc943ebccc571f51e/transformed/jetified-tensorflow-lite-gpu-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.3.1] /Users/onovitskaya/.gradle/caches/transforms-3/4029f535b6cfb110cad9b55ae0869059/transformed/jetified-tensorflow-lite-support-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.3.1] /Users/onovitskaya/.gradle/caches/transforms-3/4029f535b6cfb110cad9b55ae0869059/transformed/jetified-tensorflow-lite-support-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [:opencv] /Users/onovitskaya/made/improc2021/OpenCV-android-sdk/sdk/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:opencv] /Users/onovitskaya/made/improc2021/OpenCV-android-sdk/sdk/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] /Users/onovitskaya/.gradle/caches/transforms-3/0c6a526d1e51783d0ca72f335912830a/transformed/jetified-tensorflow-lite-support-api-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] /Users/onovitskaya/.gradle/caches/transforms-3/0c6a526d1e51783d0ca72f335912830a/transformed/jetified-tensorflow-lite-support-api-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/3bbcdd64093f19797a83e61ee083325f/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/3bbcdd64093f19797a83e61ee083325f/transformed/jetified-tensorflow-lite-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/9ef05f5eaf97c3e6f83f59203858ad0b/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/onovitskaya/.gradle/caches/transforms-3/9ef05f5eaf97c3e6f83f59203858ad0b/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/onovitskaya/.gradle/caches/transforms-3/2af018210dca3f70a097f16cc1ab6683/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/onovitskaya/.gradle/caches/transforms-3/2af018210dca3f70a097f16cc1ab6683/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/d6ccf0fe300df96f2ae39f040e0f96e3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/onovitskaya/.gradle/caches/transforms-3/d6ccf0fe300df96f2ae39f040e0f96e3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.takisoft.fix:preference-v7:26.1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/78718023ad689709fef38704e5b1a6c1/transformed/jetified-preference-v7-26.1.0.0/AndroidManifest.xml:11:9-332
+	xmlns:tools
+		ADDED from [com.takisoft.fix:preference-v7:26.1.0.0] /Users/onovitskaya/.gradle/caches/transforms-3/78718023ad689709fef38704e5b1a6c1/transformed/jetified-preference-v7-26.1.0.0/AndroidManifest.xml:8:9-55
+	android:targetSdkVersion
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		ADDED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		MERGED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		MERGED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		MERGED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:2:1-36:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4

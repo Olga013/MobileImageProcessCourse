@@ -1,0 +1,73 @@
+com/asav/android/db/TopCategoriesData.java
+ com.asav.android.db.TopCategoriesData
+ com.asav.android.db.TopCategoriesData$1
+com/asav/android/db/ClassificationForDetectedObjects.java
+ com.asav.android.db.ClassificationForDetectedObjects
+com/asav/android/mtcnn/Box.java
+ com.asav.android.mtcnn.Box
+com/asav/android/EmotionPyTorchClassifier.java
+ com.asav.android.EmotionPyTorchClassifier
+ com.asav.android.EmotionPyTorchClassifier$1
+com/asav/android/ClassifierResult.java
+ com.asav.android.ClassifierResult
+com/asav/android/EmotionData.java
+ com.asav.android.EmotionData
+com/asav/android/EmotionTfLiteClassifier.java
+ com.asav.android.EmotionTfLiteClassifier
+com/asav/android/AgeGenderEthnicityTfLiteClassifier.java
+ com.asav.android.AgeGenderEthnicityTfLiteClassifier
+com/asav/android/TfLiteClassifier.java
+ com.asav.android.TfLiteClassifier
+com/asav/android/TfLiteClassifier2.java
+ com.asav.android.TfLiteClassifier2
+com/asav/android/db/ImageAnalysisResults.java
+ com.asav.android.db.ImageAnalysisResults
+com/asav/android/PhotoProcessor.java
+ com.asav.android.PhotoProcessor
+ com.asav.android.PhotoProcessor$AppendingObjectOutputStream
+com/asav/android/FaceData.java
+ com.asav.android.FaceData
+com/asav/android/BuildConfig.java
+ com.asav.android.BuildConfig
+com/asav/android/VisualPreferences.java
+ com.asav.android.VisualPreferences
+ com.asav.android.VisualPreferences$1
+ com.asav.android.VisualPreferences$2
+ com.asav.android.VisualPreferences$3
+ com.asav.android.VisualPreferences$4
+com/asav/android/HighLevelVisualPreferences.java
+ com.asav.android.HighLevelVisualPreferences
+ com.asav.android.HighLevelVisualPreferences$1
+ com.asav.android.HighLevelVisualPreferences$2
+ com.asav.android.HighLevelVisualPreferences$3
+com/asav/android/MainActivity.java
+ com.asav.android.MainActivity
+ com.asav.android.MainActivity$1
+ com.asav.android.MainActivity$2
+ com.asav.android.MainActivity$3
+ com.asav.android.MainActivity$FaceFeatures
+ com.asav.android.MainActivity$ResultType
+com/asav/android/Photos.java
+ com.asav.android.Photos
+ com.asav.android.Photos$1
+ com.asav.android.Photos$2
+ com.asav.android.Photos$3
+ com.asav.android.Photos$4
+ com.asav.android.Photos$5
+ com.asav.android.Photos$6
+ com.asav.android.Photos$ProcessImageTask
+com/asav/android/db/RectFloat.java
+ com.asav.android.db.RectFloat
+com/asav/android/db/ImageClassificationData.java
+ com.asav.android.db.ImageClassificationData
+ com.asav.android.db.ImageClassificationData$1
+com/asav/android/ScenesTfLiteClassifier2.java
+ com.asav.android.ScenesTfLiteClassifier2
+com/asav/android/db/SceneData.java
+ com.asav.android.db.SceneData
+com/asav/android/mtcnn/Utils.java
+ com.asav.android.mtcnn.Utils
+com/asav/android/db/EXIFData.java
+ com.asav.android.db.EXIFData
+com/asav/android/db/ClassifierResult.java
+ com.asav.android.db.ClassifierResult

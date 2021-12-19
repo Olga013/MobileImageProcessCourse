@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="android.asav.com"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:5:5-81
+11-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:6:5-80
+12-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+13-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:7:5-80
+13-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:8:5-67
+14-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+16
+17    <application
+17-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:10:5-34:19
+18        android:allowBackup="true"
+18-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.8.0-alpha02] /Users/onovitskaya/.gradle/caches/transforms-3/2ecda84d039891bbccfef23cc87ae34c/transformed/core-1.8.0-alpha02/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@drawable/ic_launcher"
+22-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:12:9-45
+23        android:label="@string/app_name"
+23-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:13:9-41
+24        android:requestLegacyExternalStorage="true"
+24-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:14:9-52
+25        android:testOnly="true"
+26        android:theme="@style/MaterialTheme" >
+26-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:15:9-45
+27        <meta-data
+27-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:16:9-18:71
+28            android:name="com.google.android.geo.API_KEY"
+28-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:17:13-58
+29            android:value="AIzaSyAVLzjK-yr8PQbrDbqrfXRcecZtYMb3iC8" />
+29-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:18:13-68
+30
+31        <activity android:name="com.pdmi_samsung.android.visual_preferences.MapsActivity" />
+31-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:20:9-102
+31-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:20:19-90
+32        <activity
+32-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:21:9-29:20
+33            android:name="com.asav.android.MainActivity"
+33-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:22:13-41
+34            android:label="@string/app_name" >
+34-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:23:13-45
+35            <intent-filter>
+35-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:24:13-28:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:25:17-69
+36-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:25:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:27:17-77
+38-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:27:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <meta-data
+42-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:31:9-33:35
+43            android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+43-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:32:13-70
+44            android:value="ocr" />
+44-->/Users/onovitskaya/made/MADE-mobile-image-processing-2021-main/hw/tensorflow_photos/app/src/main/AndroidManifest.xml:33:13-32
+45    </application>
+46
+47</manifest>

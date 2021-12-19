@@ -1,0 +1,5 @@
+def opencvsdk='/Users/onovitskaya/made/improc2021/OpenCV-android-sdk'
+include ':opencv'
+project(':opencv').projectDir = new File(opencvsdk + '/sdk')
+include ':app'
+rootProject.name = "tensorflow_photos"
